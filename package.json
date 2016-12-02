@@ -1,14 +1,23 @@
 {
-  "name": "weather-app-node-package",
+  "name": "test",
   "version": "1.0.0",
-  "description": "a simple weather app package ",
+  "description": "This is a test module ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "chad clarke",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clarke90/test-.git"
+  },
+  "keywords": [
+    "weather",
+    "javascript"
+  ],
+  "author": "Chad Clarke",
   "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.1.1"
-  }
+  "bugs": {
+    "url": "https://github.com/Clarke90/test-/issues"
+  },
+  "homepage": "https://github.com/Clarke90/test-#readme"
 }
