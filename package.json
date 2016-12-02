@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "test-weather-app-module-npm-package",
   "version": "1.0.0",
   "description": "This is a test module ",
   "main": "index.js",
